@@ -33,3 +33,6 @@ With these commands you can summon different Teekkarilakkis in Minecraft.
 
 - Graduated Dippainssi (straight):
 `/give @p minecraft:netherite_helmet[minecraft:item_model="minecraft:teekkarilakki_valmistunut",minecraft:equippable={slot:"head"},minecraft:custom_name="Teekkarilakki"] 1`
+
+- Seresauva
+`give @p stick[minecraft:item_model="sik_seresauva",custom_name='["",{"text":"Seresauva","italic":false,"color":"blue","bold":true}]',lore=['["",{"text":"Sähköinsinöörikillan","italic":false,"color":"dark_gray"}]','["",{"text":"seremoniamestarin sauva.","italic":false,"color":"dark_gray"}]'],enchantments={levels:{fire_aspect:1,knockback:2,sharpness:5},show_in_tooltip:false},consumable={consume_seconds:10,animation:drink,sound:"entity.generic.drink",has_consume_particles:0b,on_consume_effects:[{type:apply_effects,effects:[{id:nausea,duration:200,amplifier:1,show_particles:0b,show_icon:0b},{id:instant_health,duration:1,amplifier:1,show_particles:0b,show_icon:0b},{id:strength,duration:600,amplifier:1,show_particles:0b,show_icon:0b}]}]},equippable={slot:mainhand,equip_sound:"block.anvil.place"},death_protection={},unbreakable={show_in_tooltip:false},hide_additional_tooltip={},minecraft:max_stack_size=1]`

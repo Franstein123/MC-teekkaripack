@@ -1,6 +1,11 @@
 # Teekkarilakki pack 1.21.4 Changelog
 Author Frans Härkönen
 
+## Version 1.3 - Added Seresauva
+Added seresauva for maintaining patience at Sitsit.
+
+BUGS: The sauva disappears when you are too drunk...
+
 ## Version 1.2 - Added MC-Kalu
 Added MC-kalu to the pack.
 The book has 104 pages of Teekkari songs.
